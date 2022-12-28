@@ -1,0 +1,1 @@
+java -Xmx1G -Xms1G -DIReallyKnowWhatIAmDoingISwear -jar server.jar nogui
